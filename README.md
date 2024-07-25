@@ -124,6 +124,9 @@ python inference_IMAGdressing_ipa_controlnetpose.py --cloth_path [your cloth pat
 python3 app.py
 ```
 
+![PixPin_2024-07-25_20-32-20](https://github.com/user-attachments/assets/3e6d96f2-f8d9-4f03-9255-04ad6096ec3b)
+
+
 ### 4. Specify the model to wear the specified clothes (Experimental Feature)
 <span style="color:red">Please download the humanparsing and openpose model file from [IDM-VTON-Huggingface](https://huggingface.co/spaces/yisol/IDM-VTON/tree/main) to the ckpt folder first.</span>
 ```sh
